@@ -5,4 +5,7 @@ public class TestMain {
         System.out.println("hello world");
         System.out.println("test Change");
     }
+    public void eat(){
+        System.out.println("这是一个吃饭的方法");
+    }
 }
